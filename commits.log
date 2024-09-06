@@ -1,0 +1,98 @@
+commit 29da2ae75dc5af6ff652c02e55baf0f70999b33a
+Author: marcelYepes <marcelyepesqf@gmail.com>
+Date:   Fri Sep 6 14:33:39 2024 -0500
+
+    Agregando 2 párrafos
+
+commit 9a6dd9f2fb83ad276e1290bb21c42ea141b982cb
+Merge: 8fbf79d 4ded724
+Author: marcelYepes <marcelyepesqf@gmail.com>
+Date:   Fri Sep 6 14:14:19 2024 -0500
+
+    Resolviendo conflicto en estaciones del año con fechas
+
+commit 8fbf79dc52b7b907eb4d60f5889b8c00fa6e6efd
+Author: marcelYepes <marcelyepesqf@gmail.com>
+Date:   Fri Sep 6 13:50:52 2024 -0500
+
+    agregando fechas a las estaciones del año
+
+commit 4ded724934e36f4239195fc9d0d0fcb67efd8f4f
+Author: marcelYepes <marcelyepesqf@gmail.com>
+Date:   Fri Sep 6 13:50:52 2024 -0500
+
+    agregando estaciones del año
+
+commit 047041c5eda8ce8e97562c9858d5594b17df65d4
+Merge: b6aec92 6fcd3da
+Author: marcelYepes <marcelyepesqf@gmail.com>
+Date:   Fri Sep 6 13:39:56 2024 -0500
+
+    resolviendo conflicto
+
+commit 6fcd3da6699025fd2056965f51fa60731b469b94
+Author: marcelYepes <marcelyepesqf@gmail.com>
+Date:   Fri Sep 6 13:34:31 2024 -0500
+
+    agregando index.js a index.html
+
+commit b6aec92e40370e1f55c7a3e71da8c805e034124f
+Author: marcelYepes <marcelyepesqf@gmail.com>
+Date:   Fri Sep 6 13:31:33 2024 -0500
+
+    agregando style.css al index.html
+
+commit fe383a60cd7661438379ffd3b83f797f11f8731c
+Merge: 92aa843 b8d9909
+Author: marcelYepes <marcelyepesqf@gmail.com>
+Date:   Fri Sep 6 13:20:10 2024 -0500
+
+    Merge branch 'js'
+
+commit b8d99097c412fcb28c74895363380f84f0cd80d0
+Author: marcelYepes <marcelyepesqf@gmail.com>
+Date:   Fri Sep 6 11:30:11 2024 -0500
+
+    creando index.js
+
+commit 92aa84303f0b42e1653c36d5a043faf6f6acea04
+Author: marcelYepes <marcelyepesqf@gmail.com>
+Date:   Fri Sep 6 11:25:27 2024 -0500
+
+    creando style.css
+
+commit 08f6ded83e5d1109e9781710cf4b2ac42c9322f7
+Author: marcelYepes <marcelyepesqf@gmail.com>
+Date:   Fri Sep 6 11:18:38 2024 -0500
+
+    creando index.html
+
+commit 496cf0d4a8b6f813333904ec16b87082e05cbefe
+Author: marcelYepes <marcelyepesqf@gmail.com>
+Date:   Fri Sep 6 10:50:36 2024 -0500
+
+    ignorando archivos .exe
+
+commit 8850dacb2ecd17174e0d5d007b9363e58b4d1abf
+Author: Marcel Yepes <125934255+marcelYepes@users.noreply.github.com>
+Date:   Fri Sep 6 08:53:58 2024 -0500
+
+    Creando licencia del repositorio
+
+commit 158143af5913e41504056aa4e2b2881615ee91ea
+Author: marcelYepes <marcelyepesqf@gmail.com>
+Date:   Thu Sep 5 21:00:09 2024 -0500
+
+    agregando más contenido al README
+
+commit ffbf4f5ca1943d12156ab99791e94fb226d9702c
+Author: marcelYepes <marcelyepesqf@gmail.com>
+Date:   Thu Sep 5 20:49:39 2024 -0500
+
+    Agregando contenido inicial al README
+
+commit ffea12b3ef63fe413ba464ab6472d523a2328f4f
+Author: marcelYepes <marcelyepesqf@gmail.com>
+Date:   Thu Sep 5 20:45:47 2024 -0500
+
+    First commit 🙂
